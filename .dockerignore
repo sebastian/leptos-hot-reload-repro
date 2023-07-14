@@ -1,0 +1,11 @@
+*
+!app
+!server
+!frontend
+!Cargo*
+!style
+!public
+!tailwind*
+!migrations
+!sqlx-data.json
+!docs
